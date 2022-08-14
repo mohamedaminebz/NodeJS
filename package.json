@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "test readme update another test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedaminebz/NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedaminebz/NodeJS/issues"
+  },
+  "homepage": "https://github.com/mohamedaminebz/NodeJS#readme",
+  "dependencies": {
+    "mongoose": "^6.5.2",
+    "underscore": "^1.13.4"
+  }
+}
